@@ -1,0 +1,15 @@
+__pycache__/
+
+# Environments
+.venv
+venv/
+# idea
+.idea/
+
+# vscode
+.vscode/
+
+# customer
+financialNews/log/*.log
+financialNews/generate/*.png
+financialNews/config/config.py
